@@ -1,0 +1,1224 @@
+[
+  {
+    "text": "What does HTML stand for?",
+    "options": {
+      "A": "Hyper Text Markup Language",
+      "B": "High Tech Modern Language",
+      "C": "Hyper Transfer Markup Language",
+      "D": "Home Tool Markup Language"
+    },
+    "correct_answer": "A",
+    "difficulty": "easy",
+    "category": "Web Development",
+    "explanation": "HTML stands for Hyper Text Markup Language, the standard markup language for web pages."
+  },
+  {
+    "text": "Which language is used for styling web pages?",
+    "options": {
+      "A": "HTML",
+      "B": "CSS",
+      "C": "JavaScript",
+      "D": "Python"
+    },
+    "correct_answer": "B",
+    "difficulty": "easy",
+    "category": "Web Development",
+    "explanation": "CSS (Cascading Style Sheets) is used for styling and layout of web pages."
+  },
+  {
+    "text": "What is React?",
+    "options": {
+      "A": "A JavaScript library for building user interfaces",
+      "B": "A programming language",
+      "C": "A database management system",
+      "D": "An operating system"
+    },
+    "correct_answer": "A",
+    "difficulty": "easy",
+    "category": "Frontend",
+    "explanation": "React is a JavaScript library developed by Facebook for building interactive user interfaces."
+  },
+  {
+    "text": "What does CSS stand for?",
+    "options": {
+      "A": "Computer Style Sheets",
+      "B": "Creative Style System",
+      "C": "Cascading Style Sheets",
+      "D": "Colorful Style Sheets"
+    },
+    "correct_answer": "C",
+    "difficulty": "easy",
+    "category": "Web Development",
+    "explanation": "CSS stands for Cascading Style Sheets, used for describing the presentation of web pages."
+  },
+  {
+    "text": "Which of the following is not a JavaScript framework?",
+    "options": {
+      "A": "React",
+      "B": "Angular",
+      "C": "Django",
+      "D": "Vue"
+    },
+    "correct_answer": "C",
+    "difficulty": "easy",
+    "category": "JavaScript",
+    "explanation": "Django is a Python web framework, not a JavaScript framework."
+  },
+  {
+    "text": "What is the purpose of Git?",
+    "options": {
+      "A": "Code editing",
+      "B": "Version control",
+      "C": "Database management",
+      "D": "Web hosting"
+    },
+    "correct_answer": "B",
+    "difficulty": "easy",
+    "category": "Tools",
+    "explanation": "Git is a distributed version control system for tracking changes in source code."
+  },
+  {
+    "text": "Which symbol is used for single-line comments in JavaScript?",
+    "options": {
+      "A": "//",
+      "B": "/*",
+      "C": "#",
+      "D": "--"
+    },
+    "correct_answer": "A",
+    "difficulty": "easy",
+    "category": "JavaScript",
+    "explanation": "// is used for single-line comments in JavaScript, while /* */ is for multi-line comments."
+  },
+  {
+    "text": "What does API stand for?",
+    "options": {
+      "A": "Application Programming Interface",
+      "B": "Advanced Programming Instruction",
+      "C": "Automated Program Interface",
+      "D": "Application Process Integration"
+    },
+    "correct_answer": "A",
+    "difficulty": "easy",
+    "category": "General Programming",
+    "explanation": "API stands for Application Programming Interface, which allows different software applications to communicate."
+  },
+  {
+    "text": "Which method converts JSON string to a JavaScript object?",
+    "options": {
+      "A": "JSON.parse()",
+      "B": "JSON.stringify()",
+      "C": "JSON.convert()",
+      "D": "JSON.toObject()"
+    },
+    "correct_answer": "A",
+    "difficulty": "easy",
+    "category": "JavaScript",
+    "explanation": "JSON.parse() converts a JSON string to a JavaScript object, while JSON.stringify() does the opposite."
+  },
+  {
+    "text": "What is the latest version of HTML?",
+    "options": {
+      "A": "HTML4",
+      "B": "XHTML",
+      "C": "HTML5",
+      "D": "HTML2023"
+    },
+    "correct_answer": "C",
+    "difficulty": "easy",
+    "category": "Web Development",
+    "explanation": "HTML5 is the latest version of HTML, introducing new semantic elements and APIs."
+  },
+  {
+    "text": "Which CSS property is used to change text color?",
+    "options": {
+      "A": "text-color",
+      "B": "font-color",
+      "C": "color",
+      "D": "text-style"
+    },
+    "correct_answer": "C",
+    "difficulty": "easy",
+    "category": "CSS",
+    "explanation": "The 'color' property is used to set the color of text in CSS."
+  },
+  {
+    "text": "What is the correct way to create a function in JavaScript?",
+    "options": {
+      "A": "function = myFunction()",
+      "B": "function myFunction()",
+      "C": "def myFunction()",
+      "D": "function:myFunction()"
+    },
+    "correct_answer": "B",
+    "difficulty": "easy",
+    "category": "JavaScript",
+    "explanation": "The correct syntax for function declaration in JavaScript is 'function myFunction()'."
+  },
+  {
+    "text": "Which database is known as a NoSQL database?",
+    "options": {
+      "A": "MySQL",
+      "B": "PostgreSQL",
+      "C": "MongoDB",
+      "D": "SQLite"
+    },
+    "correct_answer": "C",
+    "difficulty": "easy",
+    "category": "Database",
+    "explanation": "MongoDB is a popular NoSQL database that uses document-oriented storage."
+  },
+  {
+    "text": "What is the purpose of npm?",
+    "options": {
+      "A": "Node Package Manager",
+      "B": "New Project Manager",
+      "C": "Network Protocol Manager",
+      "D": "Native Program Module"
+    },
+    "correct_answer": "A",
+    "difficulty": "easy",
+    "category": "Tools",
+    "explanation": "npm stands for Node Package Manager, used for managing JavaScript packages."
+  },
+  {
+    "text": "Which HTTP method is used to retrieve data?",
+    "options": {
+      "A": "POST",
+      "B": "GET",
+      "C": "PUT",
+      "D": "DELETE"
+    },
+    "correct_answer": "B",
+    "difficulty": "easy",
+    "category": "Web Development",
+    "explanation": "GET method is used to retrieve data from a server in RESTful APIs."
+  },
+  {
+    "text": "What is Python primarily known for?",
+    "options": {
+      "A": "Readability and simplicity",
+      "B": "High performance",
+      "C": "Memory efficiency",
+      "D": "Hardware programming"
+    },
+    "correct_answer": "A",
+    "difficulty": "easy",
+    "category": "Python",
+    "explanation": "Python is known for its clean syntax, readability, and ease of use."
+  },
+  {
+    "text": "Which company developed React?",
+    "options": {
+      "A": "Google",
+      "B": "Facebook",
+      "C": "Microsoft",
+      "D": "Apple"
+    },
+    "correct_answer": "B",
+    "difficulty": "easy",
+    "category": "Frontend",
+    "explanation": "React was developed by Facebook (now Meta) and is maintained by them and the community."
+  },
+  {
+    "text": "What is the virtual DOM in React?",
+    "options": {
+      "A": "A lightweight copy of the real DOM",
+      "B": "A 3D rendering engine",
+      "C": "A database for DOM elements",
+      "D": "A browser extension"
+    },
+    "correct_answer": "A",
+    "difficulty": "medium",
+    "category": "React",
+    "explanation": "Virtual DOM is a lightweight copy of the real DOM that allows React to optimize updates."
+  },
+  {
+    "text": "Which hook is used for side effects in React?",
+    "options": {
+      "A": "useState",
+      "B": "useEffect",
+      "C": "useContext",
+      "D": "useReducer"
+    },
+    "correct_answer": "B",
+    "difficulty": "medium",
+    "category": "React",
+    "explanation": "useEffect hook is used for side effects like data fetching, subscriptions, or manually changing the DOM."
+  },
+  {
+    "text": "What is the purpose of CSS Flexbox?",
+    "options": {
+      "A": "3D transformations",
+      "B": "Responsive layout",
+      "C": "Animation",
+      "D": "Color grading"
+    },
+    "correct_answer": "B",
+    "difficulty": "medium",
+    "category": "CSS",
+    "explanation": "Flexbox is a CSS layout model designed for one-dimensional layouts that can be responsive and flexible."
+  },
+  {
+    "text": "Which SQL clause is used to filter results?",
+    "options": {
+      "A": "SELECT",
+      "B": "FROM",
+      "C": "WHERE",
+      "D": "GROUP BY"
+    },
+    "correct_answer": "C",
+    "difficulty": "medium",
+    "category": "Database",
+    "explanation": "WHERE clause is used in SQL to filter records based on specified conditions."
+  },
+  {
+    "text": "What is a closure in JavaScript?",
+    "options": {
+      "A": "A function with access to its outer scope",
+      "B": "A way to close browser tabs",
+      "C": "A memory management technique",
+      "D": "A type of loop"
+    },
+    "correct_answer": "A",
+    "difficulty": "medium",
+    "category": "JavaScript",
+    "explanation": "A closure is a function that has access to variables in its outer lexical scope, even after the outer function has returned."
+  },
+  {
+    "text": "Which method adds an element to the end of an array?",
+    "options": {
+      "A": "push()",
+      "B": "pop()",
+      "C": "shift()",
+      "D": "unshift()"
+    },
+    "correct_answer": "A",
+    "difficulty": "medium",
+    "category": "JavaScript",
+    "explanation": "push() method adds one or more elements to the end of an array and returns the new length."
+  },
+  {
+    "text": "What is the box model in CSS?",
+    "options": {
+      "A": "A way to package CSS files",
+      "B": "The layout concept involving margin, border, padding, and content",
+      "C": "A 3D modeling technique",
+      "D": "A method for organizing CSS classes"
+    },
+    "correct_answer": "B",
+    "difficulty": "medium",
+    "category": "CSS",
+    "explanation": "The CSS box model describes the rectangular boxes generated for elements, consisting of content, padding, border, and margin."
+  },
+  {
+    "text": "Which Python framework is used for web development?",
+    "options": {
+      "A": "Django",
+      "B": "NumPy",
+      "C": "Pandas",
+      "D": "TensorFlow"
+    },
+    "correct_answer": "A",
+    "difficulty": "medium",
+    "category": "Python",
+    "explanation": "Django is a high-level Python web framework that encourages rapid development and clean design."
+  },
+  {
+    "text": "What is TypeScript?",
+    "options": {
+      "A": "A superset of JavaScript",
+      "B": "A new programming language",
+      "C": "A text editor",
+      "D": "A database system"
+    },
+    "correct_answer": "A",
+    "difficulty": "medium",
+    "category": "JavaScript",
+    "explanation": "TypeScript is a superset of JavaScript that adds static typing and other features, compiled to plain JavaScript."
+  },
+  {
+    "text": "Which command stages all changes in Git?",
+    "options": {
+      "A": "git add .",
+      "B": "git commit -m",
+      "C": "git push",
+      "D": "git status"
+    },
+    "correct_answer": "A",
+    "difficulty": "medium",
+    "category": "Git",
+    "explanation": "git add . stages all changes in the current directory and subdirectories for the next commit."
+  },
+  {
+    "text": "What is the purpose of Docker?",
+    "options": {
+      "A": "Containerization of applications",
+      "B": "Virtual machine management",
+      "C": "Code compilation",
+      "D": "Database optimization"
+    },
+    "correct_answer": "A",
+    "difficulty": "medium",
+    "category": "DevOps",
+    "explanation": "Docker is a platform for developing, shipping, and running applications in containers."
+  },
+  {
+    "text": "Which React feature helps avoid unnecessary re-renders?",
+    "options": {
+      "A": "React.memo",
+      "B": "useState",
+      "C": "useEffect",
+      "D": "Context API"
+    },
+    "correct_answer": "A",
+    "difficulty": "medium",
+    "category": "React",
+    "explanation": "React.memo is a higher-order component that memoizes the result, preventing re-renders if props haven't changed."
+  },
+  {
+    "text": "What is the difference between let and var in JavaScript?",
+    "options": {
+      "A": "let has block scope, var has function scope",
+      "B": "let is for numbers, var is for strings",
+      "C": "let is newer syntax, but they work the same",
+      "D": "let is for constants, var is for variables"
+    },
+    "correct_answer": "A",
+    "difficulty": "medium",
+    "category": "JavaScript",
+    "explanation": "let has block-level scope while var has function-level scope. Also, let doesn't allow redeclaration in the same scope."
+  },
+  {
+    "text": "Which CSS unit is relative to the font-size of the root element?",
+    "options": {
+      "A": "em",
+      "B": "rem",
+      "C": "px",
+      "D": "%"
+    },
+    "correct_answer": "B",
+    "difficulty": "medium",
+    "category": "CSS",
+    "explanation": "rem units are relative to the root element's font-size, while em units are relative to the parent element's font-size."
+  },
+  {
+    "text": "What is GraphQL?",
+    "options": {
+      "A": "A query language for APIs",
+      "B": "A database management system",
+      "C": "A graphing library",
+      "D": "A programming language"
+    },
+    "correct_answer": "A",
+    "difficulty": "medium",
+    "category": "API",
+    "explanation": "GraphQL is a query language for APIs and a runtime for executing those queries with your existing data."
+  },
+  {
+    "text": "Which method creates a new array with results of calling a function on every element?",
+    "options": {
+      "A": "map()",
+      "B": "filter()",
+      "C": "reduce()",
+      "D": "forEach()"
+    },
+    "correct_answer": "A",
+    "difficulty": "medium",
+    "category": "JavaScript",
+    "explanation": "map() creates a new array with the results of calling a provided function on every element in the calling array."
+  },
+  {
+    "text": "What is JWT used for?",
+    "options": {
+      "A": "Authentication",
+      "B": "Data compression",
+      "C": "Image processing",
+      "D": "Network routing"
+    },
+    "correct_answer": "A",
+    "difficulty": "medium",
+    "category": "Security",
+    "explanation": "JWT (JSON Web Token) is used for securely transmitting information between parties as a JSON object, commonly for authentication."
+  },
+  {
+    "text": "Which Python data type is immutable?",
+    "options": {
+      "A": "List",
+      "B": "Dictionary",
+      "C": "Set",
+      "D": "Tuple"
+    },
+    "correct_answer": "D",
+    "difficulty": "medium",
+    "category": "Python",
+    "explanation": "Tuples are immutable in Python, meaning their elements cannot be changed after creation."
+  },
+  {
+    "text": "What is the purpose of Webpack?",
+    "options": {
+      "A": "Module bundling",
+      "B": "Code testing",
+      "C": "Database management",
+      "D": "API development"
+    },
+    "correct_answer": "A",
+    "difficulty": "medium",
+    "category": "Tools",
+    "explanation": "Webpack is a static module bundler for modern JavaScript applications that bundles various assets and dependencies."
+  },
+  {
+    "text": "Which HTTP status code means 'Not Found'?",
+    "options": {
+      "A": "200",
+      "B": "301",
+      "C": "404",
+      "D": "500"
+    },
+    "correct_answer": "C",
+    "difficulty": "medium",
+    "category": "Web Development",
+    "explanation": "404 status code indicates that the server cannot find the requested resource."
+  },
+  {
+    "text": "What is the difference between == and === in JavaScript?",
+    "options": {
+      "A": "== checks value, === checks value and type",
+      "B": "=== is newer syntax for ==",
+      "C": "== is for assignment, === is for comparison",
+      "D": "They are identical"
+    },
+    "correct_answer": "A",
+    "difficulty": "medium",
+    "category": "JavaScript",
+    "explanation": "== performs type coercion before comparison, while === checks both value and type without coercion."
+  },
+  {
+    "text": "Which CSS property enables flexbox layout?",
+    "options": {
+      "A": "display: flex",
+      "B": "layout: flex",
+      "C": "flex: true",
+      "D": "display: flexbox"
+    },
+    "correct_answer": "A",
+    "difficulty": "medium",
+    "category": "CSS",
+    "explanation": "display: flex enables flexbox layout for the container and its direct children."
+  },
+  {
+    "text": "What is the purpose of useEffect's cleanup function?",
+    "options": {
+      "A": "To prevent memory leaks",
+      "B": "To improve performance",
+      "C": "To clear the screen",
+      "D": "To reset state"
+    },
+    "correct_answer": "A",
+    "difficulty": "medium",
+    "category": "React",
+    "explanation": "The cleanup function in useEffect is used to clean up side effects like subscriptions or timers to prevent memory leaks."
+  },
+  {
+    "text": "Which database operation is ACID compliant?",
+    "options": {
+      "A": "NoSQL databases",
+      "B": "Relational databases",
+      "C": "Graph databases",
+      "D": "All of the above"
+    },
+    "correct_answer": "B",
+    "difficulty": "medium",
+    "category": "Database",
+    "explanation": "Relational databases typically follow ACID properties (Atomicity, Consistency, Isolation, Durability) for transactions."
+  },
+  {
+    "text": "What is the virtual DOM's main advantage?",
+    "options": {
+      "A": "Faster updates through reconciliation",
+      "B": "Smaller bundle size",
+      "C": "Better SEO",
+      "D": "Easier debugging"
+    },
+    "correct_answer": "A",
+    "difficulty": "medium",
+    "category": "React",
+    "explanation": "Virtual DOM allows React to batch updates and minimize direct DOM manipulation through a process called reconciliation."
+  },
+  {
+    "text": "Which method returns the first element that matches a CSS selector?",
+    "options": {
+      "A": "querySelector()",
+      "B": "getElementById()",
+      "C": "getElementsByClassName()",
+      "D": "find()"
+    },
+    "correct_answer": "A",
+    "difficulty": "medium",
+    "category": "JavaScript",
+    "explanation": "querySelector() returns the first element that matches the specified CSS selector."
+  },
+  {
+    "text": "What is the purpose of Python's __init__ method?",
+    "options": {
+      "A": "Class constructor",
+      "B": "Initialization of modules",
+      "C": "Import statement",
+      "D": "Exception handling"
+    },
+    "correct_answer": "A",
+    "difficulty": "medium",
+    "category": "Python",
+    "explanation": "__init__ is a special method in Python classes that is called when a new object is created (constructor)."
+  },
+  {
+    "text": "Which tool is used for JavaScript package management?",
+    "options": {
+      "A": "npm",
+      "B": "pip",
+      "C": "composer",
+      "D": "gem"
+    },
+    "correct_answer": "A",
+    "difficulty": "medium",
+    "category": "Tools",
+    "explanation": "npm (Node Package Manager) is the default package manager for JavaScript and the Node.js runtime environment."
+  },
+  {
+    "text": "What is CORS?",
+    "options": {
+      "A": "Cross-Origin Resource Sharing",
+      "B": "Centralized Origin Resource System",
+      "C": "Cross-Platform Resource Sharing",
+      "D": "Content Origin Resource Security"
+    },
+    "correct_answer": "A",
+    "difficulty": "medium",
+    "category": "Web Security",
+    "explanation": "CORS is a mechanism that allows restricted resources on a web page to be requested from another domain outside the domain from which the resource originated."
+  },
+  {
+    "text": "Which React hook is used for performance optimization?",
+    "options": {
+      "A": "useMemo",
+      "B": "useState",
+      "C": "useEffect",
+      "D": "useContext"
+    },
+    "correct_answer": "A",
+    "difficulty": "medium",
+    "category": "React",
+    "explanation": "useMemo memoizes expensive calculations to avoid re-computation on every render, improving performance."
+  },
+  {
+    "text": "What is the purpose of async/await in JavaScript?",
+    "options": {
+      "A": "To handle asynchronous operations",
+      "B": "To make code run faster",
+      "C": "To create synchronous code",
+      "D": "To improve memory usage"
+    },
+    "correct_answer": "A",
+    "difficulty": "medium",
+    "category": "JavaScript",
+    "explanation": "async/await is syntactic sugar for promises that makes asynchronous code look and behave more like synchronous code."
+  },
+  {
+    "text": "Which CSS property controls the stacking order of elements?",
+    "options": {
+      "A": "z-index",
+      "B": "order",
+      "C": "stack",
+      "D": "layer"
+    },
+    "correct_answer": "A",
+    "difficulty": "medium",
+    "category": "CSS",
+    "explanation": "z-index property controls the vertical stacking order of elements that overlap."
+  },
+  {
+    "text": "What is the difference between GET and POST requests?",
+    "options": {
+      "A": "GET is for retrieving data, POST is for sending data",
+      "B": "GET is faster than POST",
+      "C": "POST is more secure than GET",
+      "D": "GET can send large data, POST cannot"
+    },
+    "correct_answer": "A",
+    "difficulty": "medium",
+    "category": "Web Development",
+    "explanation": "GET requests should be used for retrieving data, while POST requests are for submitting data to be processed."
+  },
+  {
+    "text": "Which method creates a new Promise in JavaScript?",
+    "options": {
+      "A": "new Promise()",
+      "B": "Promise.create()",
+      "C": "Promise.new()",
+      "D": "createPromise()"
+    },
+    "correct_answer": "A",
+    "difficulty": "medium",
+    "category": "JavaScript",
+    "explanation": "Promises are created using the Promise constructor: new Promise((resolve, reject) => { ... })."
+  },
+  {
+    "text": "What is the purpose of Python's virtual environments?",
+    "options": {
+      "A": "To isolate project dependencies",
+      "B": "To create virtual machines",
+      "C": "To improve performance",
+      "D": "To secure code"
+    },
+    "correct_answer": "A",
+    "difficulty": "medium",
+    "category": "Python",
+    "explanation": "Virtual environments allow you to manage separate package installations for different projects, preventing conflicts."
+  },
+  {
+    "text": "Which algorithm does Git use for version control?",
+    "options": {
+      "A": "SHA-1 hash",
+      "B": "MD5",
+      "C": "RSA encryption",
+      "D": "AES"
+    },
+    "correct_answer": "A",
+    "difficulty": "medium",
+    "category": "Git",
+    "explanation": "Git uses SHA-1 hash algorithm to generate unique identifiers for commits, trees, and blobs."
+  },
+  {
+    "text": "What is the purpose of React's key prop?",
+    "options": {
+      "A": "To help React identify which items have changed",
+      "B": "To encrypt component data",
+      "C": "To improve styling",
+      "D": "To enable routing"
+    },
+    "correct_answer": "A",
+    "difficulty": "medium",
+    "category": "React",
+    "explanation": "Keys help React identify which items have changed, are added, or are removed, improving performance during reconciliation."
+  },
+  {
+    "text": "Which CSS feature allows responsive design?",
+    "options": {
+      "A": "Media queries",
+      "B": "CSS variables",
+      "C": "CSS grid",
+      "D": "Flexbox"
+    },
+    "correct_answer": "A",
+    "difficulty": "medium",
+    "category": "CSS",
+    "explanation": "Media queries allow you to apply different styles for different devices or screen sizes, enabling responsive design."
+  },
+  {
+    "text": "What is the event loop in JavaScript?",
+    "options": {
+      "A": "A mechanism that handles asynchronous callbacks",
+      "B": "A type of loop statement",
+      "C": "A debugging tool",
+      "D": "A performance monitoring system"
+    },
+    "correct_answer": "A",
+    "difficulty": "hard",
+    "category": "JavaScript",
+    "explanation": "The event loop is a fundamental concept in JavaScript that handles the execution of multiple chunks of code and manages the call stack and callback queue."
+  },
+  {
+    "text": "What is the time complexity of binary search?",
+    "options": {
+      "A": "O(1)",
+      "B": "O(log n)",
+      "C": "O(n)",
+      "D": "O(n log n)"
+    },
+    "correct_answer": "B",
+    "difficulty": "hard",
+    "category": "Algorithms",
+    "explanation": "Binary search has O(log n) time complexity as it divides the search space in half with each iteration."
+  },
+  {
+    "text": "Which design pattern is used in React for sharing data across components?",
+    "options": {
+      "A": "Provider Pattern",
+      "B": "Singleton Pattern",
+      "C": "Factory Pattern",
+      "D": "Observer Pattern"
+    },
+    "correct_answer": "A",
+    "difficulty": "hard",
+    "category": "React",
+    "explanation": "React's Context API uses the Provider Pattern to share data across multiple components without prop drilling."
+  },
+  {
+    "text": "What is memoization?",
+    "options": {
+      "A": "Caching the results of expensive function calls",
+      "B": "Memory allocation optimization",
+      "C": "A type of memory leak",
+      "D": "Database indexing technique"
+    },
+    "correct_answer": "A",
+    "difficulty": "hard",
+    "category": "Algorithms",
+    "explanation": "Memoization is an optimization technique that stores the results of expensive function calls and returns the cached result when the same inputs occur again."
+  },
+  {
+    "text": "Which JavaScript feature helps avoid callback hell?",
+    "options": {
+      "A": "Promises",
+      "B": "Callbacks",
+      "C": "Events",
+      "D": "Closures"
+    },
+    "correct_answer": "A",
+    "difficulty": "hard",
+    "category": "JavaScript",
+    "explanation": "Promises and async/await help avoid callback hell (deeply nested callbacks) by providing cleaner syntax for asynchronous operations."
+  },
+  {
+    "text": "What is the purpose of React's useReducer hook?",
+    "options": {
+      "A": "To manage complex state logic",
+      "B": "To reduce bundle size",
+      "C": "To improve performance",
+      "D": "To handle routing"
+    },
+    "correct_answer": "A",
+    "difficulty": "hard",
+    "category": "React",
+    "explanation": "useReducer is usually preferable to useState when you have complex state logic that involves multiple sub-values or when the next state depends on the previous one."
+  },
+  {
+    "text": "Which algorithm is used for diffing in React's reconciliation?",
+    "options": {
+      "A": "Heuristic O(n) algorithm",
+      "B": "Binary search",
+      "C": "Quick sort",
+      "D": "Depth-first search"
+    },
+    "correct_answer": "A",
+    "difficulty": "hard",
+    "category": "React",
+    "explanation": "React uses a heuristic O(n) algorithm for diffing two trees, making assumptions that lead to good performance in practice."
+  },
+  {
+    "text": "What is the purpose of WebSockets?",
+    "options": {
+      "A": "Full-duplex communication over a single TCP connection",
+      "B": "File transfer protocol",
+      "C": "Database connectivity",
+      "D": "Image compression"
+    },
+    "correct_answer": "A",
+    "difficulty": "hard",
+    "category": "Web Development",
+    "explanation": "WebSockets provide full-duplex communication channels over a single TCP connection, enabling real-time data transfer between client and server."
+  },
+  {
+    "text": "Which Python feature allows for metaprogramming?",
+    "options": {
+      "A": "Decorators",
+      "B": "List comprehensions",
+      "C": "Generators",
+      "D": "Lambda functions"
+    },
+    "correct_answer": "A",
+    "difficulty": "hard",
+    "category": "Python",
+    "explanation": "Decorators are a powerful Python feature that allows you to modify or extend the behavior of functions or classes without permanently modifying them."
+  },
+  {
+    "text": "What is the purpose of React's Error Boundaries?",
+    "options": {
+      "A": "To catch JavaScript errors in child components",
+      "B": "To handle network errors",
+      "C": "To validate form inputs",
+      "D": "To catch CSS errors"
+    },
+    "correct_answer": "A",
+    "difficulty": "hard",
+    "category": "React",
+    "explanation": "Error Boundaries are React components that catch JavaScript errors anywhere in their child component tree and display a fallback UI instead of crashing."
+  },
+  {
+    "text": "Which database normalization form eliminates transitive dependency?",
+    "options": {
+      "A": "First Normal Form (1NF)",
+      "B": "Second Normal Form (2NF)",
+      "C": "Third Normal Form (3NF)",
+      "D": "Boyce-Codd Normal Form (BCNF)"
+    },
+    "correct_answer": "C",
+    "difficulty": "hard",
+    "category": "Database",
+    "explanation": "Third Normal Form (3NF) requires that there are no transitive dependencies - non-prime attributes shouldn't depend on other non-prime attributes."
+  },
+  {
+    "text": "What is the purpose of the useCallback hook?",
+    "options": {
+      "A": "To memoize functions",
+      "B": "To handle API calls",
+      "C": "To manage state",
+      "D": "To create context"
+    },
+    "correct_answer": "A",
+    "difficulty": "hard",
+    "category": "React",
+    "explanation": "useCallback returns a memoized version of the callback function that only changes if one of the dependencies has changed, preventing unnecessary re-renders."
+  },
+  {
+    "text": "Which CSS methodology promotes component-based styling?",
+    "options": {
+      "A": "BEM",
+      "B": "OOCSS",
+      "C": "SMACSS",
+      "D": "Atomic CSS"
+    },
+    "correct_answer": "A",
+    "difficulty": "hard",
+    "category": "CSS",
+    "explanation": "BEM (Block Element Modifier) is a methodology that helps create reusable components and code sharing in front-end development."
+  },
+  {
+    "text": "What is the purpose of the useRef hook?",
+    "options": {
+      "A": "To persist values across renders without causing re-renders",
+      "B": "To reference DOM elements",
+      "C": "To manage form state",
+      "D": "Both A and B"
+    },
+    "correct_answer": "D",
+    "difficulty": "hard",
+    "category": "React",
+    "explanation": "useRef returns a mutable ref object whose .current property is initialized to the passed argument and persists across renders without causing re-renders. It's commonly used to reference DOM elements."
+  },
+  {
+    "text": "Which algorithm is used for garbage collection in JavaScript?",
+    "options": {
+      "A": "Mark and sweep",
+      "B": "Reference counting",
+      "C": "Copy collection",
+      "D": "Generational collection"
+    },
+    "correct_answer": "A",
+    "difficulty": "hard",
+    "category": "JavaScript",
+    "explanation": "Modern JavaScript engines use a mark-and-sweep algorithm for garbage collection, which marks reachable objects and sweeps away unreachable ones."
+  },
+  {
+    "text": "What is the purpose of React's Suspense?",
+    "options": {
+      "A": "To handle asynchronous operations in a declarative way",
+      "B": "To improve performance",
+      "C": "To manage state",
+      "D": "To handle errors"
+    },
+    "correct_answer": "A",
+    "difficulty": "hard",
+    "category": "React",
+    "explanation": "Suspense lets components 'wait' for something before rendering, currently used for code splitting and data fetching with React.lazy."
+  },
+  {
+    "text": "Which Python feature allows for lazy evaluation?",
+    "options": {
+      "A": "Generators",
+      "B": "List comprehensions",
+      "C": "Decorators",
+      "D": "Context managers"
+    },
+    "correct_answer": "A",
+    "difficulty": "hard",
+    "category": "Python",
+    "explanation": "Generators use lazy evaluation, producing items one at a time and only when requested, which is memory efficient for large datasets."
+  },
+  {
+    "text": "What is the purpose of the Intersection Observer API?",
+    "options": {
+      "A": "To detect when elements enter or leave the viewport",
+      "B": "To observe CSS changes",
+      "C": "To monitor network requests",
+      "D": "To track user interactions"
+    },
+    "correct_answer": "A",
+    "difficulty": "hard",
+    "category": "Web APIs",
+    "explanation": "Intersection Observer API provides a way to asynchronously observe changes in the intersection of a target element with an ancestor element or viewport."
+  },
+  {
+    "text": "Which React pattern is used for code reuse?",
+    "options": {
+      "A": "Higher-Order Components",
+      "B": "Container Components",
+      "C": "Presentational Components",
+      "D": "All of the above"
+    },
+    "correct_answer": "D",
+    "difficulty": "hard",
+    "category": "React",
+    "explanation": "Various React patterns including HOCs, Render Props, and Custom Hooks are used for code reuse and sharing logic between components."
+  },
+  {
+    "text": "What is the purpose of the CSS contain property?",
+    "options": {
+      "A": "To indicate that an element and its contents are independent of the rest of the document tree",
+      "B": "To contain floats",
+      "C": "To restrict element sizing",
+      "D": "To manage overflow"
+    },
+    "correct_answer": "A",
+    "difficulty": "hard",
+    "category": "CSS",
+    "explanation": "The contain property allows authors to indicate that an element and its contents are, as much as possible, independent of the rest of the document tree, enabling performance optimizations."
+  },
+  {
+    "text": "Which JavaScript feature implements prototypal inheritance?",
+    "options": {
+      "A": "Prototype chain",
+      "B": "Classes",
+      "C": "Modules",
+      "D": "Promises"
+    },
+    "correct_answer": "A",
+    "difficulty": "hard",
+    "category": "JavaScript",
+    "explanation": "JavaScript uses prototypal inheritance where objects can inherit properties and methods from other objects through the prototype chain."
+  },
+  {
+    "text": "What is the purpose of React's useLayoutEffect hook?",
+    "options": {
+      "A": "To perform DOM mutations synchronously after render but before paint",
+      "B": "To handle asynchronous operations",
+      "C": "To improve performance",
+      "D": "To manage state"
+    },
+    "correct_answer": "A",
+    "difficulty": "hard",
+    "category": "React",
+    "explanation": "useLayoutEffect fires synchronously after all DOM mutations, useful for reading layout from the DOM and synchronously re-rendering."
+  },
+  {
+    "text": "Which database indexing method uses a tree structure?",
+    "options": {
+      "A": "B-tree",
+      "B": "Hash index",
+      "C": "Bitmap index",
+      "D": "Full-text index"
+    },
+    "correct_answer": "A",
+    "difficulty": "hard",
+    "category": "Database",
+    "explanation": "B-tree indexing is the most common indexing method in databases, using a balanced tree structure for efficient range queries and equality searches."
+  },
+  {
+    "text": "What is the purpose of the CSS will-change property?",
+    "options": {
+      "A": "To hint browsers about expected changes for optimization",
+      "B": "To define CSS transitions",
+      "C": "To handle responsive design",
+      "D": "To manage z-index"
+    },
+    "correct_answer": "A",
+    "difficulty": "hard",
+    "category": "CSS",
+    "explanation": "will-change provides a way to hint browsers about the kind of changes to be expected on an element, so they can set up appropriate optimizations ahead of time."
+  },
+  {
+    "text": "Which JavaScript method creates a new array with all sub-array elements concatenated?",
+    "options": {
+      "A": "flat()",
+      "B": "concat()",
+      "C": "join()",
+      "D": "merge()"
+    },
+    "correct_answer": "A",
+    "difficulty": "hard",
+    "category": "JavaScript",
+    "explanation": "flat() creates a new array with all sub-array elements concatenated into it recursively up to the specified depth."
+  },
+  {
+    "text": "What is the purpose of Python's asyncio?",
+    "options": {
+      "A": "To write concurrent code using async/await syntax",
+      "B": "To handle file I/O",
+      "C": "To manage memory",
+      "D": "To improve performance"
+    },
+    "correct_answer": "A",
+    "difficulty": "hard",
+    "category": "Python",
+    "explanation": "asyncio is a library to write concurrent code using the async/await syntax, particularly useful for I/O-bound and high-level structured network code."
+  },
+  {
+    "text": "Which React feature enables code splitting?",
+    "options": {
+      "A": "React.lazy",
+      "B": "React.memo",
+      "C": "React.Suspense",
+      "D": "Both A and C"
+    },
+    "correct_answer": "D",
+    "difficulty": "hard",
+    "category": "React",
+    "explanation": "React.lazy along with React.Suspense enables code splitting, allowing you to load components only when they are needed."
+  },
+  {
+    "text": "What is the purpose of the CSS backdrop-filter property?",
+    "options": {
+      "A": "To apply filter effects to the area behind an element",
+      "B": "To filter background images",
+      "C": "To create blur effects",
+      "D": "To manage opacity"
+    },
+    "correct_answer": "A",
+    "difficulty": "hard",
+    "category": "CSS",
+    "explanation": "backdrop-filter applies filter effects (like blur or color shift) to the area behind an element, creating frosted glass effects."
+  },
+  {
+    "text": "Which JavaScript feature allows for private class fields?",
+    "options": {
+      "A": "Fields prefixed with #",
+      "B": "Fields prefixed with _",
+      "C": "Using closures",
+      "D": "Using Symbols"
+    },
+    "correct_answer": "A",
+    "difficulty": "hard",
+    "category": "JavaScript",
+    "explanation": "Private class fields are declared with a # prefix and are only accessible within the class they are declared in."
+  },
+  {
+    "text": "What is the purpose of React's useImperativeHandle hook?",
+    "options": {
+      "A": "To customize the instance value exposed to parent components",
+      "B": "To improve performance",
+      "C": "To handle ref forwarding",
+      "D": "To manage state"
+    },
+    "correct_answer": "A",
+    "difficulty": "hard",
+    "category": "React",
+    "explanation": "useImperativeHandle customizes the instance value that is exposed to parent components when using ref, working with forwardRef."
+  },
+  {
+    "text": "Which algorithm is used for conflict resolution in Git?",
+    "options": {
+      "A": "Three-way merge",
+      "B": "Two-way merge",
+      "C": "Fast-forward merge",
+      "D": "Recursive merge"
+    },
+    "correct_answer": "A",
+    "difficulty": "hard",
+    "category": "Git",
+    "explanation": "Git uses three-way merge algorithm for conflict resolution, comparing the common ancestor with both branches to resolve conflicts."
+  },
+  {
+    "text": "What is the purpose of the CSS aspect-ratio property?",
+    "options": {
+      "A": "To set a preferred aspect ratio for the box",
+      "B": "To manage image proportions",
+      "C": "To control responsive design",
+      "D": "To handle video embeds"
+    },
+    "correct_answer": "A",
+    "difficulty": "hard",
+    "category": "CSS",
+    "explanation": "aspect-ratio property sets a preferred aspect ratio for the box, which will be used in the calculation of auto sizes and other layout functions."
+  },
+  {
+    "text": "Which Python data structure has O(1) average case for insertion and lookup?",
+    "options": {
+      "A": "Dictionary",
+      "B": "List",
+      "C": "Tuple",
+      "D": "Set"
+    },
+    "correct_answer": "A",
+    "difficulty": "hard",
+    "category": "Python",
+    "explanation": "Python dictionaries provide O(1) average case time complexity for insertion, deletion, and lookup operations using hash tables."
+  },
+  {
+    "text": "What is the purpose of the useDeferredValue hook?",
+    "options": {
+      "A": "To defer updating non-urgent parts of the UI",
+      "B": "To handle slow network requests",
+      "C": "To improve performance",
+      "D": "To manage state updates"
+    },
+    "correct_answer": "A",
+    "difficulty": "hard",
+    "category": "React",
+    "explanation": "useDeferredValue returns a deferred version of the value that may 'lag behind' the original, useful for deferring non-urgent updates."
+  },
+  {
+    "text": "Which CSS feature allows for container queries?",
+    "options": {
+      "A": "@container",
+      "B": "@media",
+      "C": "@supports",
+      "D": "@import"
+    },
+    "correct_answer": "A",
+    "difficulty": "hard",
+    "category": "CSS",
+    "explanation": "Container queries (@container) allow elements to style themselves based on the size of their container rather than the viewport."
+  },
+  {
+    "text": "What is the purpose of JavaScript's Proxy object?",
+    "options": {
+      "A": "To create custom behavior for fundamental operations",
+      "B": "To handle network requests",
+      "C": "To manage memory",
+      "D": "To improve performance"
+    },
+    "correct_answer": "A",
+    "difficulty": "hard",
+    "category": "JavaScript",
+    "explanation": "Proxy objects are used to define custom behavior for fundamental operations (e.g., property lookup, assignment, enumeration, function invocation, etc.)."
+  },
+  {
+    "text": "Which React pattern uses a function as a child?",
+    "options": {
+      "A": "Render Props",
+      "B": "Higher-Order Components",
+      "C": "Compound Components",
+      "D": "Context Providers"
+    },
+    "correct_answer": "A",
+    "difficulty": "hard",
+    "category": "React",
+    "explanation": "Render Props pattern involves using a function as a child (or a prop) to share code between React components using a prop whose value is a function."
+  },
+  {
+    "text": "What is the purpose of Python's walrus operator (:=)?",
+    "options": {
+      "A": "Assignment expressions",
+      "B": "Comparison operations",
+      "C": "Bitwise operations",
+      "D": "Mathematical operations"
+    },
+    "correct_answer": "A",
+    "difficulty": "hard",
+    "category": "Python",
+    "explanation": "The walrus operator (:=) allows assignment expressions, enabling assignment and return of a value in the same expression."
+  },
+  {
+    "text": "Which CSS feature allows for layered styling?",
+    "options": {
+      "A": "CSS Layers (@layer)",
+      "B": "CSS Variables",
+      "C": "CSS Grid",
+      "D": "CSS Flexbox"
+    },
+    "correct_answer": "A",
+    "difficulty": "hard",
+    "category": "CSS",
+    "explanation": "CSS Layers (@layer) allows authors to explicitly layer their styles, providing control over which styles take precedence without relying on source order."
+  }
+]
